@@ -1,0 +1,14 @@
+      
+                  Untracked files
+
+  stage   = git add 
+
+  production  = git commit = create a Version 
+
+  git commit -m "First db commit"
+
+  working area        staging     localRepo     RemoteRepo    :
+  -----------        -------      ---------     ---------  
+  Untracked files     git add     git commit    git push 
+    red                green     
+
